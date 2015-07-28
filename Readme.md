@@ -1,7 +1,9 @@
-## Welcome to My Angular Project
+## Welcome to Bikeways
 
-> I am your Readme.md file, you should probably update me.
+Bikeways is a crowd-sourced bike mapping application. The goal, when completed, is to create an intuitive and interactive
+mapping solution for bicycle commuters, enthusiasts, weekend riders and even hard-core excersise trainers. The end goal is an application that can help all types of riders plan a safe way to get from point A to B and beyond by creating maps that aren't based on urban planners suggestions, but by real cyclists and how they ride in their city.
 
+Bikeways has an angular project, it utilizes Ui-Router for nested views and Angular Material for design.
 
 ## Usage
 
