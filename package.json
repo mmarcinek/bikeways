@@ -1,7 +1,7 @@
 {
-  "name": "Template-Angular",
+  "name": "Bikeways",
   "version": "1.0.0",
-  "description": "An AngularJS template for building new apps",
+  "description": "A crowd sourced bike mapping app and social network",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,7 @@
     "url": "https://github.com/tiy-atl-js-q2-2015/Template-Angular.git"
   },
   "contributors": [
-    "JD Isaacks",
-    "Tim Whitacre"
+    "Michael Marcinek"
   ],
   "license": "ISC",
   "bugs": {
